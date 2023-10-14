@@ -13,5 +13,5 @@ fun foo() = "hello kotlin"
 fun bar(){
   privatln(foo())
 }
-
+```
   
