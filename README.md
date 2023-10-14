@@ -8,4 +8,10 @@
 
 `int x =0;`
 
+```kotlin
+fun foo() = "hello kotlin"
+fun bar(){
+  privatln(foo())
+}
+
   
